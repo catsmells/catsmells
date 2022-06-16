@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 🌱 Always learning more about functional computing in non-functional languages.
 - ⚡ Decentralized, libre, anarchistic, idea-agnostic computing is the future we've been denied through modern convenience and culture.
 
+## Buy me a beer with Monero!
+
+48wVh45qa6KiboWLZ2wSStVUvHPvdd8omdezYuu4LdrVQPp5G4D6NPNLoiDtHKqs3BJhjtZKeGzX6GLAasA9c4cPGMpN9KK
+
 ## OS & Daily Drivers
 
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
