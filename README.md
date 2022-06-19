@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 48wVh45qa6KiboWLZ2wSStVUvHPvdd8omdezYuu4LdrVQPp5G4D6NPNLoiDtHKqs3BJhjtZKeGzX6GLAasA9c4cPGMpN9KK
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsmells&theme=gruvbox&exclude_repo=3d-print-libs&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+![catsmells](https://github-readme-stats.vercel.app/api?username=catsmells&show_icons=true&theme=gruvbox)
+
 ## OS & Daily Drivers
 
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
@@ -166,8 +171,3 @@ Here are some ideas to get you started:
 ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
 ![XMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XMPP&color=002B5C&logo=XMPP&logoColor=FFFFFF&label=)
 ![XRP](https://img.shields.io/static/v1?style=for-the-badge&message=XRP&color=25A768&logo=XRP&logoColor=FFFFFF&label=)
-
-
-![catsmells](https://github-readme-stats.vercel.app/api?username=catsmells&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsmells&theme=gruvbox&exclude_repo=3d-print-libs&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
