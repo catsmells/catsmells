@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I hate the modern computing industry.
+### Not everything has to be complicated!
 
 - 🔭 Currently working on ways to integrate a libre tinyweb into the blockchain.
 - 🌱 Always learning more about functional computing in non-functional languages.
