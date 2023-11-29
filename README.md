@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 🌱 Always learning more about functional computing in non-functional languages.
 - ⚡ Decentralized, libre, anarchistic, idea-agnostic computing is the future we've been denied through modern convenience and culture.
 
-## Buy me a beer with Monero!
-
-48wVh45qa6KiboWLZ2wSStVUvHPvdd8omdezYuu4LdrVQPp5G4D6NPNLoiDtHKqs3BJhjtZKeGzX6GLAasA9c4cPGMpN9KK
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsmells&theme=gruvbox&exclude_repo=3d-print-libs&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
