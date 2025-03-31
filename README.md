@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 ![React Table](https://img.shields.io/static/v1?style=for-the-badge&message=React+Table&color=FF4154&logo=React+Table&logoColor=FFFFFF&label=)
 ![QuantConnect](https://img.shields.io/static/v1?style=for-the-badge&message=QuantConnect&color=222222&logo=QuantConnect&logoColor=F5AE29&label=)
-![4chan](https://img.shields.io/static/v1?style=for-the-badge&message=4chan&color=006600&logo=4chan&logoColor=FFFFFF&label=)
 ![Shell](https://img.shields.io/static/v1?style=for-the-badge&message=Shell&color=222222&logo=Shell&logoColor=FFD500&label=)
 ![Tails](https://img.shields.io/static/v1?style=for-the-badge&message=Tails&color=56347C&logo=Tails&logoColor=FFFFFF&label=)
 ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
